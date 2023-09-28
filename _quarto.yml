@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Viet Hung Nguyen Cao"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: CV.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+    background: "#922E41"
+
+format:
+  html:
+    mainfont: Helvetica Neue, Arial, "Hiragino Kaku Gothic ProN" "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif
+    fontsize: 13pt
+    theme: united
+    toc: false
+
+
+

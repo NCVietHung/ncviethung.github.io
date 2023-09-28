@@ -1,0 +1,18 @@
+---
+title: "Viet Hung Nguyen Cao"
+image: figure/Hung.jpg
+about:
+    template: trestles
+    image-width: 10cm
+    image-shape: round
+    links: 
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/NCVietHung
+      - icon: mailbox
+        text: Email
+        href: ncviethung@fuji.waseda.jp
+---
+
+Viet-Hung Nguyen-Cao is a PhD candidate at the **Graduate School of Political Science, Waseda University**. I study International Relations with a focus on international security, using survey experiments and text analysis. My current research interests include territorial disputes, public opinions and authoritarian politics.
+
