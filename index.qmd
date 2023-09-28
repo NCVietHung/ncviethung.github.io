@@ -2,7 +2,7 @@
 title: "Viet Hung Nguyen Cao"
 image: figure/Hung.jpg
 about:
-    template: trestles
+    template: jolla
     image-width: 10cm
     image-shape: round
     links: 
