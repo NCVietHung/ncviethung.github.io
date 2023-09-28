@@ -17,7 +17,7 @@ website:
 format:
   html:
     mainfont: Helvetica Neue, Arial, "Hiragino Kaku Gothic ProN" "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif
-    fontsize: 13pt
+    fontsize: 14pt
     theme: united
     toc: false
 
