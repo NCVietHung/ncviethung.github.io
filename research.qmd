@@ -4,7 +4,9 @@ format: html
 ---
 "‡" - manuscript under review
 
-**To war or not to war: Backing down after a fait accompli in Japan‡**
+**Peer-Reviewed Articles**
+
+[**To war or not to war: Backing down after a fait accompli in Japan**.](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/to-war-or-not-to-war-backing-down-after-a-fait-accompli-in-japan/6938A9409CD00FB9D9929D87B4CC5216) *Japanese Journal of Political Science*, Forthcoming
 
 ::: {.callout-note collapse="true" appearance="simple"}
 
@@ -12,6 +14,8 @@ format: html
 
 A growing number of studies focus on how governments can manage audience costs when they want to back down from international crises. In line with previous studies, especially Kohama et al. (2024), this paper argues that the Japanese government can use a variety of reasons to justify its decisions to deescalate while minimizing the domestic audience costs. I found that governments can reduce audience costs by using several rhetorical devices, which reinforces the current understanding of audience costs. However, my design, which presented a fait accompli scenario by China against Japan, yielded significantly different results regarding certain aspects of audience costs compared to previous studies on the subject. Specifically, the results of this study indicate that the public might not value economic development following a fait accompli as highly as in less severe scenarios. The results also suggest that leaders might have a harder time backing down after a loss of territory, compared to other forms of provocation. 
 :::
+
+**Working Papers**
 
 **Does the US Really Embolden Allies? Evidence from a Survey Experiment in Japan (with Kudo Yasuki)‡**
 
@@ -29,13 +33,4 @@ Abstract: Do patrons’ signals of security commitments embolden junior partners
 ## Abstract
 
 Fait accompli is a strategy in which challenger states seeking to incrementally revise the territorial status quo. However, states who wish to use this strategy face a difficult task of assuring the victim states that their territorial goals are indeed limited. This paper attempts to investigate the extent to which the public in the victim state reacts to assurance signals from the challenger state after a fait accompli, as well as how the public reacts to their government conceding the territory without retaliation. By conducting an online survey experiment in Taiwan, I found that the Taiwanese public are against retaliating fait accompli with forces, regardless of assuring signals from China. However, the Taiwanese public also showed dissatisfaction if there is no retaliation, regardless of the excuses given by the government. The results contribute to the literature on assurance, and challenge existing works on mitigating audience costs.
-:::
-
-**Examining Vietnamese attitude toward China: Moving beyond the anti-China framing (with Phan Xuan Dung and Richard Turcsanyi)**
-
-::: {.callout-note collapse="true" appearance="simple"}
-
-## Abstract
-
-Common narratives hold that the Vietnamese public harbors predominantly negative feelings toward China due to past Chinese aggression, ongoing disputes in the South China Sea, and China’s economic and strategic influence over Vietnam. While there is truth in these assertions, our paper argues that they are too simplistic to fully capture the Vietnamese perception of China. Utilizing a new public opinion survey dataset, we show that Vietnamese people’s attitude towards China is more balanced and nuanced than often portrayed. Vietnamese perception of China varies across demographics (e.g. age, region, and education) and topics (e.g. China’s actions in the South China Sea, Chinese culture and the 1979 Sino-Vietnamese border war). Both the media and scholarly work should move beyond the ‘anti-China’ framing and examine the diversity of views that we underscore in this paper. A more nuanced understanding of how Vietnam perceives China is not only beneficial to the literature on Vietnam-China relations but also informative for the making of foreign policy in Vietnam.
 :::
