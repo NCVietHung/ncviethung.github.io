@@ -4,7 +4,9 @@ format: html
 ---
 "‡" - manuscript under review
 
+::: {style="font-size: 150%;"}
 **Peer-Reviewed Articles**
+:::
 
 [**To war or not to war: Backing down after a fait accompli in Japan**.](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/to-war-or-not-to-war-backing-down-after-a-fait-accompli-in-japan/6938A9409CD00FB9D9929D87B4CC5216) *Japanese Journal of Political Science*, Forthcoming
 
@@ -15,7 +17,9 @@ format: html
 A growing number of studies focus on how governments can manage audience costs when they want to back down from international crises. In line with previous studies, especially Kohama et al. (2024), this paper argues that the Japanese government can use a variety of reasons to justify its decisions to deescalate while minimizing the domestic audience costs. I found that governments can reduce audience costs by using several rhetorical devices, which reinforces the current understanding of audience costs. However, my design, which presented a fait accompli scenario by China against Japan, yielded significantly different results regarding certain aspects of audience costs compared to previous studies on the subject. Specifically, the results of this study indicate that the public might not value economic development following a fait accompli as highly as in less severe scenarios. The results also suggest that leaders might have a harder time backing down after a loss of territory, compared to other forms of provocation. 
 :::
 
+::: {style="font-size: 150%;"}
 **Working Papers**
+:::
 
 **Does the US Really Embolden Allies? Evidence from a Survey Experiment in Japan (with Kudo Yasuki)‡**
 
@@ -26,11 +30,20 @@ A growing number of studies focus on how governments can manage audience costs w
 Abstract: Do patrons’ signals of security commitments embolden junior partners? The literature on military alliances suggests that this might be the case: supportive gestures by patrons could motivate junior partners to adopt more aggressive postures in their own disputes than they would without such support. While the theoretical logic is compelling when considering states as unitary actors, it is less clear if this logic applies to the domestic public that may have differing interests from leaders. To complement this gap, we conducted a survey experiment in Japan, a close US ally with a territorial dispute with China, to explore the impact of US presidential signals on public support for adopting aggressive policies towards China. We find that US signals increase the credibility of US military intervention in territorial disputes; however no evidence of an emboldenment effect is found—public support for escalatory policies does not increase accordingly. Additionally, we find that US signals do not encourage the public to punish leaders backing down after announcing aggressive policies. These findings challenge the conventional understanding of an important effect of alliance politics.
 :::
 
-**Kinmen, kinsmen? An experiment of fait accompli in Taiwan**
+**Kinmen, kinsmen? An experiment of fait accompli in Taiwan‡**
 
 ::: {.callout-note collapse="true" appearance="simple"}
 
 ## Abstract
 
 Fait accompli is a strategy in which challenger states seeking to incrementally revise the territorial status quo. However, states who wish to use this strategy face a difficult task of assuring the victim states that their territorial goals are indeed limited. This paper attempts to investigate the extent to which the public in the victim state reacts to assurance signals from the challenger state after a fait accompli, as well as how the public reacts to their government conceding the territory without retaliation. By conducting an online survey experiment in Taiwan, I found that the Taiwanese public are against retaliating fait accompli with forces, regardless of assuring signals from China. However, the Taiwanese public also showed dissatisfaction if there is no retaliation, regardless of the excuses given by the government. The results contribute to the literature on assurance, and challenge existing works on mitigating audience costs.
+:::
+
+**Conflict and Democratic Justification: Public Response Experiment on the Taiwan-Strait Crisis in the Philippines and Japan (with Marvin H. Bernardo)**
+
+::: {.callout-note collapse="true" appearance="simple"}
+
+## Abstract
+
+This study investigates democratic conflict behavior, through a survey experiment of type II audience cost in the Philippines and Japan in the event of Taiwan-Strait crisis. Looking at Filipino and Japanese public's reactions to hypothetical scenarios in which government leaders in each nation, respectively, initially declare they would not participate in a Taiwan crisis but would later change their position. The investigation aims to identify the political cost of justifying involvement in third-party conflicts in democratic states in East Asia. The project will contribute to the growing literature on audience cost, allies maintenance, and the relationship between democratic values and international crisis. It will also have implications for policy-making and crisis management in the event of a Taiwan Strait crisis.
 :::
