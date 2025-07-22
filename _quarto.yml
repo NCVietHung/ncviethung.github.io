@@ -14,7 +14,8 @@ format:
     theme: 
       - materia
       - custom.scss
-    toc: false
+    toc: true
+    toc-title: " "
 
 
 

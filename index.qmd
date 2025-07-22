@@ -3,7 +3,7 @@ title: "Viet Hung Nguyen Cao"
 image: figure/Hung.jpg
 about:
     id: heading
-    template: jolla
+    template: solana
     image-shape: round
     links: 
       - icon: twitter
@@ -23,6 +23,8 @@ I study International Relations with a focus on international security, using su
 
 For more information, see my CV [**here**](https://drive.google.com/file/d/1Wb2eaJJfWPm2T3q1xoFApV2uQiiCK_Ja/view?usp=sharing). 
 
+:::
+
 ## Education
 
 {{< fa graduation-cap >}} **Waseda University | Tokyo, Japan**
@@ -40,7 +42,7 @@ BA in International Relations | March 2020
 "‡" - manuscript under review
 
 ::: {style="font-size: 115%;"}
-{{< fa star >}} **Peer-Reviewed Articles**
+### {{< fa star >}} **Peer-Reviewed Articles**
 :::
 
 [**To war or not to war: Backing down after a fait accompli in Japan**.](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/to-war-or-not-to-war-backing-down-after-a-fait-accompli-in-japan/6938A9409CD00FB9D9929D87B4CC5216) *Japanese Journal of Political Science*, Forthcoming
@@ -62,7 +64,7 @@ Abstract: Do patrons’ signals of security commitments embolden junior partners
 :::
 
 ::: {style="font-size: 115%;"}
-{{< fa pencil >}} **Working Papers**
+### {{< fa pencil >}} **Working Papers**
 :::
 
 **Kinmen, kinsmen? An experiment of fait accompli in Taiwan‡**
@@ -88,7 +90,7 @@ This study investigates democratic conflict behavior, through a survey experimen
 **An alliance conundrum: Experiments of fait accompli in East Asia**
 
 ::: {style="font-size: 115%;"}
-{{< fa newspaper >}} **Other Publications**
+### {{< fa newspaper >}} **Other Publications**
 :::
 
 [**“Does Ideology Matter in Vietnam’s Foreign Policy?” The Diplomat.**](https://thediplomat.com/2022/11/does-ideology-matter-in-vietnams-foreign-policy/)
@@ -96,6 +98,3 @@ This study investigates democratic conflict behavior, through a survey experimen
 [**"Vietnam’s Peacekeeping Contributions: Drivers and Prospects." ISEAS Perspective (with Phan Xuan Dung)**](https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2020-46-vietnams-peacekeeping-contributions-drivers-and-prospects-by-phan-xuan-dung-and-nguyen-cao-viet-hung/)
 
 [**"Vietnam’s Struggles in the South China Sea: Challenges and Opportunities." Center for International Maritime Security.**](https://cimsec.org/vietnams-struggles-in-the-south-china-sea-challenges-and-opportunities/)
-
-
-:::
