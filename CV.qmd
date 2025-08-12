@@ -1,0 +1,108 @@
+---
+format:
+  pdf:
+    documentclass: bxjsarticle
+    classoption: xelatex
+    papersize: a4paper
+    linkcolor: NavyBlue
+    citecolor: NavyBlue
+    urlcolor: NavyBlue
+---
+
+# Viet Hung Nguyen Cao
+
+\vspace{15mm}
+
+## Contact Information
+
+Graduate School Political Science, Waseda University\vspace{-4mm}
+
+E-mail: <ncviethung@fuji.waseda.jp>\vspace{-4mm}
+
+Website: <https://ncviethung.github.io/>
+
+## Research Experience
+
+2025--present
+: Research Fellow
+: UP Center for Integrative and Development Studies – Strategic Studies Program,
+University of the Philippines, Diliman
+
+2023--2025
+: Research Assistant, Teaching Assistant
+: Graduate School Political Science, Waseda University
+
+2020--2021
+: Research Assistant
+: South China Sea Data Initiative, Emory University
+
+2020--2020
+: Research Intern
+: Pacific Forum
+
+## Research Interests
+
+International Relations, Survey Experiments, Public Opinions, Territorial Disputes
+
+## Education
+
+2022--present
+: Ph.D. in Political Science
+: Graduate School Political Science, Waseda University
+
+2022
+: M.A. in Political Science
+: Graduate School Political Science, Waseda University
+
+2020
+: B.A. in International Relations
+: Tokyo International University
+
+## Publication
+
+"‡" - manuscript under review
+
+### Peer-reviewed articles
+
+1. Kudo, Yasuki, and Viet Hung Nguyen Cao. 2025. [“Does the US Really Embolden Its Allies? Evidence from a Survey Experiment in Japan.”](https://doi.org/10.1177/00220027251360557) *Journal of Conflict Resolution*, Fortcoming.
+1. Nguyen Cao, Viet Hung. 2025. [“To War or Not to War: Backing down after a Fait Accompli in Japan.”](https://doi.org/10.1017/S1468109924000239) *Japanese Journal of Political Science* 26 (1): 44–53.
+
+### Working papers
+
+**Kinmen, kinsmen? An experiment of fait accompli in Taiwan‡**
+
+**Conflict and Democratic Justification: Public Response Experiment on the Taiwan-Strait Crisis in the Philippines and Japan (with Marvin H. Bernardo)**
+
+**An alliance conundrum: Experiments of fait accompli in East Asia**
+
+### Other publications
+
+[**“Does Ideology Matter in Vietnam’s Foreign Policy?” The Diplomat.**](https://thediplomat.com/2022/11/does-ideology-matter-in-vietnams-foreign-policy/)
+
+[**"Vietnam’s Peacekeeping Contributions: Drivers and Prospects." ISEAS Perspective (with Phan Xuan Dung)**](https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2020-46-vietnams-peacekeeping-contributions-drivers-and-prospects-by-phan-xuan-dung-and-nguyen-cao-viet-hung/)
+
+[**"Vietnam’s Struggles in the South China Sea: Challenges and Opportunities." Center for International Maritime Security.**](https://cimsec.org/vietnams-struggles-in-the-south-china-sea-challenges-and-opportunities/)
+
+## Professional Service
+
+### Reviewer
+
+International Relations of the Asia‑Pacific, East Asia Forum
+
+### Membership
+
+Japan Society for Quantitative Political Science, Philippines Political Science Association
+
+## Miscellaneous
+
+### Languages
+
+Vietnamese (native), English (business), Japanese (conversational), Spanish (intermediate)
+
+### PC skills
+
+\LaTeX, R, Qualtrics
+
+\vspace{15mm}
+
+Last Updated: \the\year/\the\month/\the\day

@@ -21,7 +21,7 @@ Viet-Hung Nguyen-Cao is a PhD candidate at the **Graduate School of Political Sc
 
 I study International Relations with a focus on international security, using survey experiments and text analysis. My current research interests include territorial disputes, public opinions and authoritarian politics.
 
-For more information, see my CV [**here**](https://drive.google.com/file/d/1Wb2eaJJfWPm2T3q1xoFApV2uQiiCK_Ja/view?usp=sharing). 
+For more information, see my CV [**here**](docs/CV.pdf). 
 
 :::
 
@@ -41,20 +41,11 @@ BA in International Relations | March 2020
 
 "‡" - manuscript under review
 
-::: {style="font-size: 115%;"}
+::: {style="font-size: 110%;"}
 ### {{< fa star >}} **Peer-Reviewed Articles**
 :::
 
-[**To war or not to war: Backing down after a fait accompli in Japan**.](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/to-war-or-not-to-war-backing-down-after-a-fait-accompli-in-japan/6938A9409CD00FB9D9929D87B4CC5216) *Japanese Journal of Political Science*, Forthcoming
-
-::: {.callout-note collapse="true" appearance="simple"}
-
-## Abstract 
-
-A growing number of studies focus on how governments can manage audience costs when they want to back down from international crises. In line with previous studies, especially Kohama et al. (2024), this paper argues that the Japanese government can use a variety of reasons to justify its decisions to deescalate while minimizing the domestic audience costs. I found that governments can reduce audience costs by using several rhetorical devices, which reinforces the current understanding of audience costs. However, my design, which presented a fait accompli scenario by China against Japan, yielded significantly different results regarding certain aspects of audience costs compared to previous studies on the subject. Specifically, the results of this study indicate that the public might not value economic development following a fait accompli as highly as in less severe scenarios. The results also suggest that leaders might have a harder time backing down after a loss of territory, compared to other forms of provocation. 
-:::
-
-[**Does the US Really Embolden Allies? Evidence from a Survey Experiment in Japan (with Kudo Yasuki)**](https://journals.sagepub.com/doi/full/10.1177/00220027251360557) *Journal of Conflict Resolution*, Forthcoming.
+Kudo, Yasuki, and Nguyen Cao, Viet Hung. 2025. [“Does the US Really Embolden Its Allies? Evidence from a Survey Experiment in Japan.”](https://doi.org/10.1177/00220027251360557) *Journal of Conflict Resolution*, Fortcoming. 
 
 ::: {.callout-note collapse="true" appearance="simple"}
 
@@ -63,7 +54,17 @@ A growing number of studies focus on how governments can manage audience costs w
 Abstract: Do patrons’ signals of security commitments embolden junior partners? The literature on military alliances suggests that this might be the case: supportive gestures by patrons could motivate junior partners to adopt more aggressive postures in their own disputes than they would without such support. While the theoretical logic is compelling when considering states as unitary actors, it is less clear if this logic applies to the domestic public that may have differing interests from leaders. To complement this gap, we conducted a survey experiment in Japan, a close US ally with a territorial dispute with China, to explore the impact of US presidential signals on public support for adopting aggressive policies towards China. We find that US signals increase the credibility of US military intervention in territorial disputes; however no evidence of an emboldenment effect is found—public support for escalatory policies does not increase accordingly. Additionally, we find that US signals do not encourage the public to punish leaders backing down after announcing aggressive policies. These findings challenge the conventional understanding of an important effect of alliance politics.
 :::
 
-::: {style="font-size: 115%;"}
+Nguyen Cao, Viet Hung. 2025. [“To War or Not to War: Backing down after a Fait Accompli in Japan.”](https://doi.org/10.1017/S1468109924000239) *Japanese Journal of Political Science* 26 (1): 44–53.
+ 
+::: {.callout-note collapse="true" appearance="simple"}
+
+## Abstract 
+
+A growing number of studies focus on how governments can manage audience costs when they want to back down from international crises. In line with previous studies, especially Kohama et al. (2024), this paper argues that the Japanese government can use a variety of reasons to justify its decisions to deescalate while minimizing the domestic audience costs. I found that governments can reduce audience costs by using several rhetorical devices, which reinforces the current understanding of audience costs. However, my design, which presented a fait accompli scenario by China against Japan, yielded significantly different results regarding certain aspects of audience costs compared to previous studies on the subject. Specifically, the results of this study indicate that the public might not value economic development following a fait accompli as highly as in less severe scenarios. The results also suggest that leaders might have a harder time backing down after a loss of territory, compared to other forms of provocation. 
+:::
+
+
+::: {style="font-size: 110%;"}
 ### {{< fa pencil >}} **Working Papers**
 :::
 
@@ -89,7 +90,7 @@ This study investigates democratic conflict behavior, through a survey experimen
 
 **An alliance conundrum: Experiments of fait accompli in East Asia**
 
-::: {style="font-size: 115%;"}
+::: {style="font-size: 110%;"}
 ### {{< fa newspaper >}} **Other Publications**
 :::
 
