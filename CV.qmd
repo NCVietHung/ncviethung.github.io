@@ -15,7 +15,7 @@ format:
 
 ## Contact Information
 
-Graduate School Political Science, Waseda University\vspace{-4mm}
+Graduate School of Political Science, Waseda University\vspace{-4mm}
 
 E-mail: <ncviethung@fuji.waseda.jp>\vspace{-4mm}
 
@@ -30,7 +30,7 @@ University of the Philippines, Diliman
 
 2023--2025
 : Research Assistant, Teaching Assistant
-: Graduate School Political Science, Waseda University
+: Graduate School of Political Science, Waseda University
 
 2020--2021
 : Research Assistant
@@ -48,15 +48,17 @@ International Relations, Survey Experiments, Public Opinions, Territorial Disput
 
 2022--present
 : Ph.D. in Political Science
-: Graduate School Political Science, Waseda University
+: Graduate School of Political Science, Waseda University
 
 2022
 : M.A. in Political Science
-: Graduate School Political Science, Waseda University
+: Graduate School of Political Science, Waseda University
 
 2020
 : B.A. in International Relations
 : Tokyo International University
+
+\newpage
 
 ## Publication
 
@@ -101,7 +103,7 @@ Vietnamese (native), English (business), Japanese (conversational), Spanish (int
 
 ### PC skills
 
-\LaTeX, R, Qualtrics
+\LaTeX, R, Qualtrics, Quarto
 
 \vspace{15mm}
 
