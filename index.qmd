@@ -88,7 +88,16 @@ Fait accompli is a strategy in which challenger states seeking to incrementally 
 This study investigates democratic conflict behavior, through a survey experiment of type II audience cost in the Philippines and Japan in the event of Taiwan-Strait crisis. Looking at Filipino and Japanese public's reactions to hypothetical scenarios in which government leaders in each nation, respectively, initially declare they would not participate in a Taiwan crisis but would later change their position. The investigation aims to identify the political cost of justifying involvement in third-party conflicts in democratic states in East Asia. The project will contribute to the growing literature on audience cost, allies maintenance, and the relationship between democratic values and international crisis. It will also have implications for policy-making and crisis management in the event of a Taiwan Strait crisis.
 :::
 
-**An alliance conundrum: Experiments of fait accompli in East Asia**
+**Dangling Sword or Olive Branch?: Threats and Assurances in Fait Accompli Situations**
+
+**Tie hands or not tie hands: Decoding responses of weaker claimants in the South China Sea (with Marvin H. Bernardo and Aaron Denison Deivasagayam)**
+
+::: {.callout-note collapse="true" appearance="simple"}
+
+## Abstract
+
+This study examines how the Philippines, Vietnam, and Malaysia respond to China’s grey zone coercion in the South China Sea, engaging debates on signaling, audience costs, and domestic politics. While transparency is often promoted as an effective counter strategy, it is also a double-edged sword. Exposing Chinese actions risks inflaming nationalism and generating audience costs that governments may be unable to manage. Conversely, states with a more substantial capacity to shape public opinion can utilize transparency to enhance their bargaining power. Comparing the three cases, the study reveals that variations in political institutions and elite control over nationalist narratives explain the divergent uses of transparency. The analysis highlights how domestic political dynamics mediate state responses to coercive diplomacy, complicating the assumption that transparency is universally beneficial.
+:::
 
 ::: {style="font-size: 110%;"}
 ### {{< fa newspaper >}} **Other Publications**
