@@ -70,7 +70,7 @@ A growing number of studies focus on how governments can manage audience costs w
 
 **Kinmen, kinsmen? An experiment of fait accompli in Taiwan‡**
 
-[Working paper](drafts/VietHung_Taiwan_Kinmen%20paper_7th%20draft.pdf){.btn .btn-outline-primary .btn-sm .btn role="button"} 
+[Working paper](drafts/Taiwan%20Kinmen%20paper_10th%20draft.pdf){.btn .btn-outline-primary .btn-sm .btn role="button"} 
 
 ::: {.callout-note collapse="true" appearance="simple"}
 
@@ -79,13 +79,15 @@ A growing number of studies focus on how governments can manage audience costs w
 Fait accompli is a strategy in which challenger states seeking to incrementally revise the territorial status quo. However, states who wish to use this strategy face a difficult task of assuring the victim states that their territorial goals are indeed limited. This paper attempts to investigate the extent to which the public in the victim state reacts to assurance signals from the challenger state after a fait accompli, as well as how the public reacts to their government conceding the territory without retaliation. By conducting an online survey experiment in Taiwan, I found that the Taiwanese public are against retaliating fait accompli with forces, regardless of assuring signals from China. However, the Taiwanese public also showed dissatisfaction if there is no retaliation, regardless of the excuses given by the government. The results contribute to the literature on assurance, and challenge existing works on mitigating audience costs.
 :::
 
-**Conflict and Democratic Justification: Public Response Experiment on the Taiwan-Strait Crisis in the Philippines and Japan (with Marvin H. Bernardo)**
+**Does Neutrality Have a Price? Experimental Evidence from Japan and the Philippines (with Marvin H. Bernardo)**
+
+[Working paper](drafts/Type2ACJpPhil_1st%20draft.pdf){.btn .btn-outline-primary .btn-sm .btn role="button"}
 
 ::: {.callout-note collapse="true" appearance="simple"}
 
 ## Abstract
 
-This study investigates democratic conflict behavior, through a survey experiment of type II audience cost in the Philippines and Japan in the event of Taiwan-Strait crisis. Looking at Filipino and Japanese public's reactions to hypothetical scenarios in which government leaders in each nation, respectively, initially declare they would not participate in a Taiwan crisis but would later change their position. The investigation aims to identify the political cost of justifying involvement in third-party conflicts in democratic states in East Asia. The project will contribute to the growing literature on audience cost, allies maintenance, and the relationship between democratic values and international crisis. It will also have implications for policy-making and crisis management in the event of a Taiwan Strait crisis.
+Do leaders in democratic states face domestic political costs for abandoning promises of neutrality and backing into conflicts? We investigate this question through pre-registered survey experiments in Japan and the Philippines (N=2,398), testing whether Type II audience costs—the punishment leaders face for policy reversals toward intervention—operate in US allies. Using realistic Taiwan contingency scenarios, we find that contrary to theoretical predictions, leaders in both countries do not face significant audience costs for abandoning neutrality to support US military action. However, exploratory analysis reveals a powerful moderator: public perceptions of alliance consequences. When respondents believe backing into conflict strengthens their country's alliance with the United States, Type II audience costs disappear entirely—and in the Philippines, even reverse, with publics supporting leaders who break neutrality promises. This moderation effect is stronger in the Philippines than Japan, reflecting differences in alliance insecurity. Our findings suggest Type II audience costs operate conditionally: in asymmetric alliance relationships, alliance maintenance concerns can override consistency preferences. These results have important implications for audience costs theory, alliance burden-sharing dynamics, and Taiwan contingency planning in the Indo-Pacific.
 :::
 
 **Dangling Sword or Olive Branch?: Threats and Assurances in Fait Accompli Situations**
