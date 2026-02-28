@@ -25,10 +25,6 @@ ORCiD: <https://orcid.org/0000-0003-1647-6057>\vspace{-4mm}
 
 ## Research Experience
 
-2026--present
-: Research Associate
-: Faculty of Political Science and Economics, Waseda University
-
 2025--2025
 : Research Fellow
 : UP Center for Integrative and Development Studies – Strategic Studies Program,
@@ -72,7 +68,7 @@ International Relations, Survey Experiments, Public Opinions, Territorial Disput
 
 ### Peer-reviewed articles
 
-1. Kudo, Yasuki, and Viet Hung Nguyen Cao. 2025. [“Does the US Really Embolden Its Allies? Evidence from a Survey Experiment in Japan.”](https://doi.org/10.1177/00220027251360557) *Journal of Conflict Resolution*, Forthcoming.
+1. Kudo, Yasuki, and Viet Hung Nguyen Cao. 2025. [“Does the US Really Embolden Its Allies? Evidence from a Survey Experiment in Japan.”](https://doi.org/10.1177/00220027251360557) *Journal of Conflict Resolution* 70 (4): 613-638.
 1. Nguyen Cao, Viet Hung. 2025. [“To War or Not to War: Backing down after a Fait Accompli in Japan.”](https://doi.org/10.1017/S1468109924000239) *Japanese Journal of Political Science* 26 (1): 44–53.
 
 ### Working papers
