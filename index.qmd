@@ -73,17 +73,6 @@ A growing number of studies focus on how governments can manage audience costs w
 ### {{< fa pencil >}} **Working Papers**
 :::
 
-**Kinmen, kinsmen? An experiment of fait accompli in Taiwan‡**
-
-[Working paper](drafts/Taiwan%20Kinmen%20paper_10th%20draft.pdf){.btn .btn-outline-primary .btn-sm .btn role="button"} 
-
-::: {.callout-note collapse="true" appearance="simple"}
-
-## Abstract
-
-Fait accompli is a strategy in which challenger states seeking to incrementally revise the territorial status quo. However, states who wish to use this strategy face a difficult task of assuring the victim states that their territorial goals are indeed limited. This paper attempts to investigate the extent to which the public in the victim state reacts to assurance signals from the challenger state after a fait accompli, as well as how the public reacts to their government conceding the territory without retaliation. By conducting an online survey experiment in Taiwan, I found that the Taiwanese public are against retaliating fait accompli with forces, regardless of assuring signals from China. However, the Taiwanese public also showed dissatisfaction if there is no retaliation, regardless of the excuses given by the government. The results contribute to the literature on assurance, and challenge existing works on mitigating audience costs.
-:::
-
 **Does Neutrality Have a Price? Experimental Evidence from Japan and the Philippines (with Marvin H. Bernardo)**
 
 [Working paper](drafts/Type2ACJpPhil_1st%20draft.pdf){.btn .btn-outline-primary .btn-sm .btn role="button"}
@@ -95,20 +84,21 @@ Fait accompli is a strategy in which challenger states seeking to incrementally 
 Do leaders in democratic states face domestic political costs for abandoning promises of neutrality and backing into conflicts? We investigate this question through pre-registered survey experiments in Japan and the Philippines (N=2,398), testing whether Type II audience costs—the punishment leaders face for policy reversals toward intervention—operate in US allies. Using realistic Taiwan contingency scenarios, we find that contrary to theoretical predictions, leaders in both countries do not face significant audience costs for abandoning neutrality to support US military action. However, exploratory analysis reveals a powerful moderator: public perceptions of alliance consequences. When respondents believe backing into conflict strengthens their country's alliance with the United States, Type II audience costs disappear entirely—and in the Philippines, even reverse, with publics supporting leaders who break neutrality promises. This moderation effect is stronger in the Philippines than Japan, reflecting differences in alliance insecurity. Our findings suggest Type II audience costs operate conditionally: in asymmetric alliance relationships, alliance maintenance concerns can override consistency preferences. These results have important implications for audience costs theory, alliance burden-sharing dynamics, and Taiwan contingency planning in the Indo-Pacific.
 :::
 
-**Dangling Sword or Olive Branch?: Threats and Assurances in Fait Accompli Situations**
+**Threats, Assurances, and Public Support for Military Retaliation after a Fait Accompli‡**
 
 **Tie hands or not tie hands: Decoding responses of weaker claimants in the South China Sea (with Marvin H. Bernardo and Aaron Denison Deivasagayam)**
 
-::: {.callout-note collapse="true" appearance="simple"}
+**Elite-Led Caution: The Elite-Public Gap in Attitudes Toward China and the United States in Southeast Asia‡**
 
-## Abstract
+**Whose claims, whose norm: Vietnam, the Philippines, and great-power territorial violations‡**
 
-This study examines how the Philippines, Vietnam, and Malaysia respond to China’s grey zone coercion in the South China Sea, engaging debates on signaling, audience costs, and domestic politics. While transparency is often promoted as an effective counter strategy, it is also a double-edged sword. Exposing Chinese actions risks inflaming nationalism and generating audience costs that governments may be unable to manage. Conversely, states with a more substantial capacity to shape public opinion can utilize transparency to enhance their bargaining power. Comparing the three cases, the study reveals that variations in political institutions and elite control over nationalist narratives explain the divergent uses of transparency. The analysis highlights how domestic political dynamics mediate state responses to coercive diplomacy, complicating the assumption that transparency is universally beneficial.
-:::
+**Examining Vietnamese attitudes toward China: Moving beyond the 'anti-China' framing‡ (with Phan Xuan Dung and Richard Turscsanyi)**
 
 ::: {style="font-size: 110%;"}
 ### {{< fa newspaper >}} **Other Publications**
 :::
+
+[**"Public Opinions in the Philippines about a Taiwan Crisis"** University of the Philippines Center for Integrative and Development Studies. (with Marvin H. Bernardo)](https://cids.up.edu.ph/download/public-opinions-philippines-taiwan-crisis/)
 
 [**“Does Ideology Matter in Vietnam’s Foreign Policy?” The Diplomat.**](https://thediplomat.com/2022/11/does-ideology-matter-in-vietnams-foreign-policy/)
 
